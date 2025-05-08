@@ -25,7 +25,7 @@ I'm Christina and I'm a Frontend developer from St. Petersburg 👩🏽‍💻
 
 - 💻 I’m currently working on JavaScript and ReactJS
 - 🎓 I’m currently learning ReactJS and JS improvements
-- 💬 Ask me about tech, skiing, yoga and making vegan desserts
+- 💬 Ask me about tech, skiing and making vegan desserts
 
 ### Connect with me:
 
